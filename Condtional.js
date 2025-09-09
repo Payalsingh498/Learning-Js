@@ -57,7 +57,7 @@
 // console.log("Percentage %= " + percentage);
 // console.log("Grade = " + grade);
 
-// 5.WAP: Take 3 inputs from user and check third number is +ve or -ve
+// 5.WAP: Take 3 inputs from user and check third number is +ve or -ve if positive then find the sum of all three
 // let num1 = Number(prompt("Enter first number:"));
 // let num2 = Number(prompt("Enter second number:"));
 // let num3 = Number(prompt("Enter third number:"));
@@ -65,7 +65,7 @@
 //     console.log("Third number is Positive");
 //     if (num3 % 2 === 0) {
 //         let sum = num1 + num2 + num3;
-//         console.log("Third number is Even. Sum = " + sum);   
+//         console.log("Third number is Even Sum = " + sum);   
 //     } else {
 //         console.log("Third number is Odd");
 //     }

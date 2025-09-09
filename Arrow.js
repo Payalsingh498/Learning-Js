@@ -1,4 +1,4 @@
-//Arrow Function (20215) ES6 let const
+//Arrow Function (2015) ES6 let const
 //kisi function ko parameter ke andar kisi aur function ko call karna is called Arrow function
 //Short me funcion ko likhne ke liye function kehte hai
 
@@ -10,7 +10,7 @@
 //return curly braces ke saath hi likhte hai
 //Arrow function implicitily return karta hai
 
-//1.Arrow function without paramenter================================================== 
+//1.Arrow function without parameter==================================================== 
 //First syntax type example
 // let fun=()=>{return"Inside Function"}
 // console.log(fun());
